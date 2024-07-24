@@ -1,5 +1,5 @@
 # ShowsApiCliente
-Cliente del repositorio ShowsApi 
+Cliente de windows forms del repositorio ShowsApi 
 
 ---
 
