@@ -1,5 +1,5 @@
 # ShowsApiCliente
-Cliente de windows forms del repositorio ShowsApi 
+Cliente de windows forms del API publicada en el repositorio [ShowsApi](https://github.com/marcos-ms/ShowsApi)
 
 ---
 
