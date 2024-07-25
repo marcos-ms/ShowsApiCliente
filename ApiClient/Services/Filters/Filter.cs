@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace ApiClient;
+namespace ApiClient.Services.Filters;
 
 public class Filter
 {

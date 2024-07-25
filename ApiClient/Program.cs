@@ -40,7 +40,6 @@ namespace ApiClient
             services.AddHttpClient<IClientApiService, ClientApiService>(client =>
             {
                 client.BaseAddress = new Uri(uriString);
-                // client.DefaultRequestHeaders.Add("Accept", "application/json");
             });
 
 

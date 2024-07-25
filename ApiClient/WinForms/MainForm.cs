@@ -1,6 +1,7 @@
 using ApiClient.Models;
 using ApiClient.Services;
 using System.Windows.Forms;
+using ApiClient.Services.Filters;
 
 namespace ApiClient
 {
@@ -194,9 +195,7 @@ namespace ApiClient
             {
                 var show = form.Show;
                 if (show is null)
-                {
                     return;
-                }
 
                 await _clientApiService.SaveShowAsync(show);
 

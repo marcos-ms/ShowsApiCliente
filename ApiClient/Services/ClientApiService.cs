@@ -4,6 +4,7 @@ using System.Text.Json;
 using ApiClient.Models;
 using Microsoft.Extensions.Configuration;
 using System.Text.Json;
+using ApiClient.Services.Filters;
 
 namespace ApiClient.Services;
 
